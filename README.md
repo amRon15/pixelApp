@@ -13,6 +13,10 @@ The Pixel Art App is a creative tool designed for pixel art enthusiasts. With an
 ## Technology
 - Swift
 
+##Screen Capture
+![IMG_5162 (1)](https://github.com/user-attachments/assets/3fd91a56-c6d8-4d52-8d70-738efa828933)
+
+
 ## License
 This project is licensed under the MIT License.
 
