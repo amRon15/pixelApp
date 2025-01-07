@@ -16,7 +16,7 @@ The Pixel Art App is a creative tool designed for pixel art enthusiasts. With an
 ## Screen Capture
 ![IMG_5162 (1)](https://github.com/user-attachments/assets/3fd91a56-c6d8-4d52-8d70-738efa828933)
 ![IMG_5166 (1)](https://github.com/user-attachments/assets/68af9b9b-7c91-453c-9e29-33b5015742db)
-![ScreenRecording_12-20-2024 22-32-52_1](https://github.com/user-attachments/assets/c4f22b6f-de9b-42b9-8000-3e2dbb4105bf)
+![ScreenRecording_12-20-2024 22-32-52_1 (1) (1)](https://github.com/user-attachments/assets/b70842c6-a573-40c3-a645-e7fe90dcd68d)
 ![IMG_5164](https://github.com/user-attachments/assets/b3fc6917-7d32-4a96-bec1-276295c7e0ec)
 ![pixelArtGif](https://github.com/user-attachments/assets/acf657a6-14f9-44aa-9570-11ad4d195577)
 
